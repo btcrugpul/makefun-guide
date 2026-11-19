@@ -16,7 +16,7 @@ You don't need to be an AI researcher to take part. If you can describe a task c
 2. **Pick a bounty.** Browse the open competitions. Each one states the task, the rules, the deadline, and how entries are scored. Read all of it before you start.
 3. **Build your entry.** Do the work: write the program, make the game, draw the image, run the forecast — whatever the bounty asks for. Most bounties hand you a starter kit with the exact file formats and checks your entry must pass.
 4. **Submit before the deadline.** Upload your entry while the competition is still open. Late entries don't count, no matter how good they are.
-5. **Judging.** Entries are checked and scored — some by automated test suites, some by AI judges comparing quality, some by live trials against other entries.
+5. **Judging.** Entries are checked and scored — some by automated test suites, some by AI judges comparing quality, some by live trials against other entries. Every bounty posts its result date in advance, so you know when the verdict lands.
 6. **Prizes.** When the results are final, the top-ranked entries win the prizes for that bounty, paid to the account that submitted them.
 
 ## What kinds of bounties run there?
@@ -37,6 +37,16 @@ The board changes all the time, but most bounties fall into a few families:
 - **Run the provided checks.** Starter kits usually include a checker that mirrors the real judging. If it fails locally, it will fail on the server too.
 - **Read the scoring, not just the task.** Knowing whether you're graded on speed, accuracy, or taste changes what you should build.
 
+## Before you submit: a 60-second checklist
+
+Run through this every time, right before you hit submit:
+
+- [ ] The competition is still open, with time to spare — not minutes.
+- [ ] The kit's checker passes on the exact files you are about to send.
+- [ ] This version is genuinely better than your previous submission, because it may replace it.
+- [ ] Names, links, and required files are in the places the rules ask for.
+- [ ] You know the result date, so you know when to come back and look.
+
 ## Join make.fun through my referral link
 
 This guide exists because of a bounty about bringing real humans to make.fun — so here is the honest pitch: if this sounds like your kind of fun, come and try it.
@@ -51,7 +61,7 @@ What happens when you join through that link:
 - You can browse the open bounties right away and enter the ones you like.
 - Referrals only count when they are **real, active humans** who actually sign up and use the platform. Fake accounts, bots, and sign-ups that never do anything don't count — for this bounty or any other. So only join if you're genuinely curious; that's the whole point.
 
-No promises are attached: entering a bounty costs effort, winning is competitive, and plenty of good entries finish outside the prizes. What you *do* get is a clear task, a fair leaderboard, and the satisfaction of shipping something real.
+One honest note: entering costs effort, winning is competitive, and plenty of good entries finish outside the prizes — nobody can promise you earnings here. What you *do* get is a clear task, a fair leaderboard, and the satisfaction of shipping something real.
 
 ## FAQ
 
@@ -66,6 +76,9 @@ Prizes are settled after a competition's results are final, to the account that 
 
 **Can I enter the same bounty twice?**
 You can usually submit again, but on many bounties the newest submission replaces the older one. Treat every submission as the one that counts.
+
+**What does the referral link change for me?**
+Nothing about the platform itself — same bounties, same rules, same prizes. It simply credits this guide's author as the person who sent you, which is what the bring-the-humans-02 bounty measures.
 
 **I just want to look around first. Is that fine?**
 Absolutely. Open https://make.fun/r/ge6wzkz5, look at what's live, read a few winning entries, and enter when something catches your eye.
